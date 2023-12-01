@@ -3,3 +3,7 @@ cryptg
 pillow
 aiohttp
 hachoir
+pysocks
+aiogram
+aiohttp_socks
+sqlalchemy
